@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NguyenKyei
 - 👀 I’m interested in finance, fintech
-- 🌱 I’m currently learning finnace corporate
+
  
 
 <!---
